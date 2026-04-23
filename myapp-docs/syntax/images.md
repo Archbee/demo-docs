@@ -1,9 +1,9 @@
 ---
 title: Images
-slug: images2
+slug: images3
 docTags: 
 createdAt: Thu Apr 23 2026 11:34:42 GMT+0300 (Eastern European Summer Time)
-updatedAt: Thu Apr 23 2026 11:51:05 GMT+0300 (Eastern European Summer Time)
+updatedAt: Thu Apr 23 2026 12:04:19 GMT+0300 (Eastern European Summer Time)
 ---
 
 ## Relative
