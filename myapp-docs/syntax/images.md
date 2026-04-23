@@ -4,7 +4,7 @@
 
 This is a place holder image specified with html
 
-![Image exchange](../assets/api-endpoint.png)
+![Image exchange](../assets/api-endpoint.png "Image exchange")
 
 ### Markdown syntax
 
