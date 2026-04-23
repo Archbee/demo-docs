@@ -2,10 +2,10 @@
 title: Links
 slug: links2
 docTags: 
-createdAt: Thu Apr 23 2026 11:34:42 GMT+0300 (Eastern European Summer Time)
-updatedAt: Thu Apr 23 2026 12:29:06 GMT+0300 (Eastern European Summer Time)
+createdAt: Thu Apr 23 2026 12:55:23 GMT+0300 (Eastern European Summer Time)
+updatedAt: Thu Apr 23 2026 12:55:37 GMT+0300 (Eastern European Summer Time)
 ---
 
 [link to emoji page](../directives/emoji.md)
 
-:Link[link to image]{label="Images" spaceId docId="hmJNH549vDa8R4iqJzxTD" version="v2" docAnchorId="#html-image-1" loadingMethod="dynamic" overridedLabel="link to image" href="images.md"}&#x20;
+:Link[link to image]{label="link to image" overridedLabel="link to image" spaceId docId="y9Lrk1Kxq93v9C1oPo1OB" version="v2" docAnchorId="#html-image" loadingMethod="dynamic" newTab="false" githubPath="images.md" href="images.md"}&#x20;
