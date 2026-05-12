@@ -1,0 +1,51 @@
+{
+  "docsPath": "docs1/",
+  "structure": {
+    "assets": "assets/",
+    "docsTree": [
+      {
+        "path": "vfq4ORAi-3H8QRB7ppc0L.mdx",
+        "children": []
+      },
+      {
+        "categoryName": "this is a category",
+        "isCategory": true,
+        "children": [
+          {
+            "path": "this is a category/HYf9lvPVGpsSaoagWJnlP.mdx",
+            "children": []
+          },
+          {
+            "categoryName": "This is a text",
+            "isCategory": false,
+            "path": "demo.md",
+            "children": []
+          }
+        ]
+      },
+      {
+        "path": "M9gZJBuuj0mYQYYUY29YM.mdx",
+        "children": []
+      },
+      {
+        "path": "71iED4Wh5O-H8xrrGm0cY.mdx",
+        "children": [],
+        "isLink": true,
+        "linkTitle": "Untitled",
+        "linkHref": ""
+      },
+      {
+        "categoryName": "",
+        "isCategory": true,
+        "children": []
+      },
+      {
+        "categoryName": "Shadow Docs",
+        "isCategory": true,
+        "children": [],
+        "isShadowDocs": true
+      }
+    ]
+  },
+  "shadowDocs": []
+}
