@@ -7,13 +7,13 @@
       {
         "categoryName": "About",
         "isCategory": false,
-        "path": "about.md",
+        "path": "about.mdx",
         "children": []
       },
       {
         "categoryName": "Swagger API Petstore 2.0",
         "isCategory": true,
-        "path": "petstore-2.0.yaml",
+        "path": "petstore-2.0.mdx",
         "children": []
       },
       {
@@ -23,30 +23,30 @@
           {
             "categoryName": "Headings",
             "isCategory": false,
-            "path": "syntax/headings.md",
+            "path": "syntax/headings.mdx",
             "children": []
           },
           {
             "categoryName": "Links",
             "isCategory": false,
-            "path": "syntax/links.md",
+            "path": "syntax/links.mdx",
             "children": []
           },
           {
             "categoryName": "Images",
             "isCategory": false,
-            "path": "syntax/images.md",
+            "path": "syntax/images.mdx",
             "children": []
           },
           {
             "categoryName": "Lists",
             "isCategory": false,
-            "path": "syntax/lists.md",
+            "path": "syntax/lists.mdx",
             "children": [
               {
                 "categoryName": "Lists 1",
                 "isCategory": false,
-                "path": "syntax/lists-1.md",
+                "path": "syntax/lists-1.mdx",
                 "children": []
               }
             ]
@@ -54,19 +54,19 @@
           {
             "categoryName": "Tables",
             "isCategory": false,
-            "path": "syntax/tables.md",
+            "path": "syntax/tables.mdx",
             "children": []
           },
           {
             "categoryName": "Code editor",
             "isCategory": false,
-            "path": "syntax/code-editor.md",
+            "path": "syntax/code-editor.mdx",
             "children": []
           },
           {
             "categoryName": "item separator list",
             "isCategory": false,
-            "path": "syntax/an-item.md",
+            "path": "syntax/an-item.mdx",
             "children": []
           }
         ]
@@ -78,67 +78,67 @@
           {
             "categoryName": "links",
             "isCategory": false,
-            "path": "directives/links.md",
+            "path": "directives/links.mdx",
             "children": []
           },
           {
             "categoryName": "emoji",
             "isCategory": false,
-            "path": "directives/emoji.md",
+            "path": "directives/emoji.mdx",
             "children": []
           },
           {
             "categoryName": "hints",
             "isCategory": false,
-            "path": "directives/hints.md",
+            "path": "directives/hints.mdx",
             "children": []
           },
           {
             "categoryName": "link-arrays",
             "isCategory": false,
-            "path": "directives/link-arrays.md",
+            "path": "directives/link-arrays.mdx",
             "children": []
           },
           {
             "categoryName": "tabs",
             "isCategory": false,
-            "path": "directives/tabs.md",
+            "path": "directives/tabs.mdx",
             "children": []
           },
           {
             "categoryName": "code-editor-tabs",
             "isCategory": false,
-            "path": "directives/code-editor-tabs.md",
+            "path": "directives/code-editor-tabs.mdx",
             "children": []
           },
           {
             "categoryName": "code-drawers",
             "isCategory": false,
-            "path": "directives/code-drawer.md",
+            "path": "directives/code-drawer.mdx",
             "children": []
           },
           {
             "categoryName": "embeds",
             "isCategory": false,
-            "path": "directives/embeds.md",
+            "path": "directives/embeds.mdx",
             "children": []
           },
           {
             "categoryName": "changelogs",
             "isCategory": false,
-            "path": "directives/changelog.md",
+            "path": "directives/changelog.mdx",
             "children": []
           },
           {
             "categoryName": "vertical-split",
             "isCategory": false,
-            "path": "directives/vertical-split.md",
+            "path": "directives/vertical-split.mdx",
             "children": []
           },
           {
             "categoryName": "partial",
             "isCategory": false,
-            "path": "directives/partial.md",
+            "path": "directives/partial.mdx",
             "children": []
           }
         ]
