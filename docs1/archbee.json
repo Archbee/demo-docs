@@ -18,6 +18,12 @@
       {
         "path": "bla-bla.mdx",
         "children": []
+      },
+      {
+        "categoryName": "Shadow Docs",
+        "isCategory": true,
+        "children": [],
+        "isShadowDocs": true
       }
     ]
   },
