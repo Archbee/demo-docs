@@ -18,8 +18,15 @@
       {
         "path": "bla-bla.mdx",
         "children": []
+      },
+      {
+        "categoryName": "Shadow Docs",
+        "isCategory": true,
+        "children": [],
+        "isShadowDocs": true
       }
     ]
   },
-  "shadowDocs": []
+  "shadowDocs": [],
+  "autoMerge": true
 }
