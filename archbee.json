@@ -13,6 +13,7 @@
       {
         "categoryName": "Swagger API Petstore 2.0",
         "isCategory": true,
+        "path": "petstore-2.0.yaml",
         "children": []
       },
       {
