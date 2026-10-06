@@ -25,15 +25,15 @@
         "isCategory": true,
         "children": [
           {
-            "categoryName": "Links",
-            "isCategory": false,
-            "path": "syntax/links.mdx",
-            "children": []
-          },
-          {
             "categoryName": "Headings",
             "isCategory": false,
             "path": "syntax/headings.mdx",
+            "children": []
+          },
+          {
+            "categoryName": "Links",
+            "isCategory": false,
+            "path": "syntax/links.mdx",
             "children": []
           },
           {
