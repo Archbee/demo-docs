@@ -14,22 +14,26 @@
         "categoryName": "Swagger API Petstore 2.0",
         "isCategory": true,
         "path": "petstore-2.0.yaml",
-        "children": []
+        "children": [],
+        "docTreeOptions": {
+          "openApiTryIt": true,
+          "openApiUseOwnBackend": false
+        }
       },
       {
         "categoryName": "Syntax",
         "isCategory": true,
         "children": [
           {
-            "categoryName": "Headings",
-            "isCategory": false,
-            "path": "syntax/headings.mdx",
-            "children": []
-          },
-          {
             "categoryName": "Links",
             "isCategory": false,
             "path": "syntax/links.mdx",
+            "children": []
+          },
+          {
+            "categoryName": "Headings",
+            "isCategory": false,
+            "path": "syntax/headings.mdx",
             "children": []
           },
           {
