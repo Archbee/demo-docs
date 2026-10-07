@@ -4,18 +4,6 @@
     "assets": "assets/",
     "docsTree": [
       {
-        "categoryName": "this is a category",
-        "isCategory": true,
-        "children": [
-          {
-            "categoryName": "This is a text",
-            "isCategory": false,
-            "path": "demo.mdx",
-            "children": []
-          }
-        ]
-      },
-      {
         "path": "bla-bla.mdx",
         "children": []
       }
