@@ -5,6 +5,10 @@
     "assets": "assets",
     "docsTree": [
       {
+        "path": "aaa.mdx",
+        "children": []
+      },
+      {
         "categoryName": "About",
         "isCategory": false,
         "path": "about.mdx",
