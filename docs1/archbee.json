@@ -5,10 +5,27 @@
     "assets": "assets/",
     "docsTree": [
       {
+        "categoryName": "this is a category",
+        "isCategory": true,
+        "children": [
+          {
+            "path": "this-is-a-category/new-doc.mdx",
+            "children": []
+          }
+        ]
+      },
+      {
         "path": "bla-bla.mdx",
         "children": []
+      },
+      {
+        "categoryName": "Shadow Docs",
+        "isCategory": true,
+        "children": [],
+        "isShadowDocs": true
       }
     ]
   },
-  "shadowDocs": []
+  "shadowDocs": [],
+  "autoMerge": true
 }
