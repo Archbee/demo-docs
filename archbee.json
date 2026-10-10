@@ -1,6 +1,6 @@
 {
   "docsPath": "myapp-docs/",
-  "autoPublish": true,
+  "publishSpace": true,
   "structure": {
     "summary": "toc.md",
     "assets": "assets",
