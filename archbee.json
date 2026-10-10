@@ -225,7 +225,6 @@
   "footerTemplate": "",
   "headerIncludes": "",
   "customCSS": "",
-  "publishSpace": false,
   "sites": [
     {
       "docsPath": "nested/nested/docs/md",
