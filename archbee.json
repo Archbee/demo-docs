@@ -1,6 +1,5 @@
 {
   "docsPath": "myapp-docs/",
-  "publishSpace": true,
   "structure": {
     "summary": "toc.md",
     "assets": "assets",
@@ -10,16 +9,6 @@
         "isCategory": false,
         "path": "about.mdx",
         "children": []
-      },
-      {
-        "categoryName": "Swagger API Petstore 2.0",
-        "isCategory": true,
-        "path": "petstore-2.0.yaml",
-        "children": [],
-        "docTreeOptions": {
-          "openApiTryIt": true,
-          "openApiUseOwnBackend": false
-        }
       },
       {
         "categoryName": "Syntax",
@@ -75,6 +64,16 @@
             "children": []
           }
         ]
+      },
+      {
+        "categoryName": "Swagger API Petstore 2.0",
+        "isCategory": true,
+        "path": "petstore-2.0.yaml",
+        "children": [],
+        "docTreeOptions": {
+          "openApiTryIt": true,
+          "openApiUseOwnBackend": false
+        }
       },
       {
         "categoryName": "Directives in page",
