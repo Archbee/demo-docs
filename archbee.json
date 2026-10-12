@@ -1,15 +1,10 @@
 {
   "docsPath": "myapp-docs/",
+  "autoMerge": false,
   "structure": {
     "summary": "toc.md",
     "assets": "assets",
     "docsTree": [
-      {
-        "categoryName": "About",
-        "isCategory": false,
-        "path": "about.mdx",
-        "children": []
-      },
       {
         "categoryName": "Syntax",
         "isCategory": true,
@@ -212,6 +207,12 @@
             "children": []
           }
         ]
+      },
+      {
+        "categoryName": "About",
+        "isCategory": false,
+        "path": "about.mdx",
+        "children": []
       },
       {
         "categoryName": "Shadow Docs",
