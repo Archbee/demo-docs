@@ -1,25 +1,10 @@
 {
   "docsPath": "myapp-docs/",
+  "autoMerge": false,
   "structure": {
     "summary": "toc.md",
     "assets": "assets",
     "docsTree": [
-      {
-        "categoryName": "About",
-        "isCategory": false,
-        "path": "about.mdx",
-        "children": []
-      },
-      {
-        "categoryName": "Swagger API Petstore 2.0",
-        "isCategory": true,
-        "path": "petstore-2.0.yaml",
-        "children": [],
-        "docTreeOptions": {
-          "openApiTryIt": true,
-          "openApiUseOwnBackend": false
-        }
-      },
       {
         "categoryName": "Syntax",
         "isCategory": true,
@@ -74,6 +59,16 @@
             "children": []
           }
         ]
+      },
+      {
+        "categoryName": "Swagger API Petstore 2.0",
+        "isCategory": true,
+        "path": "petstore-2.0.yaml",
+        "children": [],
+        "docTreeOptions": {
+          "openApiTryIt": true,
+          "openApiUseOwnBackend": false
+        }
       },
       {
         "categoryName": "Directives in page",
@@ -214,6 +209,12 @@
         ]
       },
       {
+        "categoryName": "About",
+        "isCategory": false,
+        "path": "about.mdx",
+        "children": []
+      },
+      {
         "categoryName": "Shadow Docs",
         "isCategory": true,
         "children": [],
@@ -224,7 +225,6 @@
   "footerTemplate": "",
   "headerIncludes": "",
   "customCSS": "",
-  "publishSpace": false,
   "sites": [
     {
       "docsPath": "nested/nested/docs/md",
