@@ -8,7 +8,7 @@ paths:
   /pets/{petId}:
     get:
       summary: Get a pet
-      operationId: getPet
+      operationId: getPett
       tags: [Pets]
       parameters:
         - name: petId
