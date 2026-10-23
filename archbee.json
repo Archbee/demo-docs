@@ -87,12 +87,6 @@
             "children": []
           },
           {
-            "categoryName": "link-arrays",
-            "isCategory": false,
-            "path": "directives/link-arrays.mdx",
-            "children": []
-          },
-          {
             "categoryName": "tabs",
             "isCategory": false,
             "path": "directives/tabs.mdx",
