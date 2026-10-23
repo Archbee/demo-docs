@@ -47,12 +47,6 @@
             "children": []
           },
           {
-            "categoryName": "Code editor",
-            "isCategory": false,
-            "path": "syntax/code-editor.mdx",
-            "children": []
-          },
-          {
             "categoryName": "item separator list",
             "isCategory": false,
             "path": "syntax/an-item.mdx",
