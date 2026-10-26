@@ -17,6 +17,56 @@
         "isShadowDocs": true
       },
       {
+        "categoryName": "QA St8",
+        "isCategory": true,
+        "children": [
+          {
+            "path": "qa-st8/a.mdx",
+            "children": []
+          },
+          {
+            "path": "qa-st8/b.mdx",
+            "children": []
+          },
+          {
+            "path": "qa-st8/c.mdx",
+            "children": []
+          },
+          {
+            "path": "qa-st8/d.mdx",
+            "children": []
+          },
+          {
+            "path": "qa-st8/e.mdx",
+            "children": []
+          },
+          {
+            "path": "qa-st8/f.mdx",
+            "children": []
+          },
+          {
+            "path": "qa-st8/g.mdx",
+            "children": []
+          },
+          {
+            "path": "qa-st8/h.mdx",
+            "children": []
+          },
+          {
+            "path": "qa-st8/i.mdx",
+            "children": []
+          },
+          {
+            "path": "qa-st8/j.mdx",
+            "children": []
+          },
+          {
+            "path": "qa-st8/k.mdx",
+            "children": []
+          }
+        ]
+      },
+      {
         "categoryName": "Swagger API Petstore 2.0",
         "isCategory": true,
         "children": []
