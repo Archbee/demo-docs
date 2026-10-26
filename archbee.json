@@ -11,6 +11,16 @@
         "children": []
       },
       {
+        "categoryName": "Shadow Docs",
+        "isCategory": true,
+        "children": [],
+        "isShadowDocs": true
+      },
+      {
+        "path": "qa-st8-pn2.mdx",
+        "children": []
+      },
+      {
         "categoryName": "QA St8",
         "isCategory": true,
         "children": [
@@ -23,7 +33,7 @@
             "children": []
           },
           {
-            "path": "qa-st8/c.mdx",
+            "path": "qa-st8/j.mdx",
             "children": []
           },
           {
@@ -31,7 +41,7 @@
             "children": []
           },
           {
-            "path": "qa-st8/e.mdx",
+            "path": "qa-st8-moved/e.mdx",
             "children": []
           },
           {
@@ -43,7 +53,7 @@
             "children": []
           },
           {
-            "path": "qa-st8/h.mdx",
+            "path": "qa-st8/pn1.mdx",
             "children": []
           },
           {
@@ -51,12 +61,25 @@
             "children": []
           },
           {
-            "path": "qa-st8/j.mdx",
+            "path": "qa-st8/h.mdx",
             "children": []
           },
           {
             "path": "qa-st8/k.mdx",
             "children": []
+          },
+          {
+            "path": "qa-st8/parent.mdx",
+            "children": [
+              {
+                "path": "qa-st8/parent-c1.mdx",
+                "children": []
+              },
+              {
+                "path": "qa-st8/parent-c2.mdx",
+                "children": []
+              }
+            ]
           }
         ]
       },
