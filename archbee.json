@@ -120,12 +120,6 @@
             "children": []
           },
           {
-            "categoryName": "embeds",
-            "isCategory": false,
-            "path": "directives/embeds.mdx",
-            "children": []
-          },
-          {
             "categoryName": "changelogs",
             "isCategory": false,
             "path": "directives/changelog.mdx",
