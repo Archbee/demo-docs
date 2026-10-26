@@ -11,6 +11,12 @@
         "children": []
       },
       {
+        "categoryName": "Shadow Docs",
+        "isCategory": true,
+        "children": [],
+        "isShadowDocs": true
+      },
+      {
         "path": "qa-st8-pn2.mdx",
         "children": []
       },
@@ -31,7 +37,7 @@
             "children": []
           },
           {
-            "path": "qa-st8/c.mdx",
+            "path": "qa-st8/j.mdx",
             "children": []
           },
           {
@@ -60,10 +66,6 @@
           },
           {
             "path": "qa-st8/h.mdx",
-            "children": []
-          },
-          {
-            "path": "qa-st8/j.mdx",
             "children": []
           },
           {
