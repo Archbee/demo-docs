@@ -5,6 +5,10 @@
     "assets": "assets",
     "docsTree": [
       {
+        "path": "qa-st8-b1-new.mdx",
+        "children": []
+      },
+      {
         "categoryName": "About",
         "isCategory": false,
         "path": "about.mdx",
@@ -57,15 +61,11 @@
             "children": []
           },
           {
-            "path": "qa-st8/pn1.mdx",
+            "path": "qa-st8/h.mdx",
             "children": []
           },
           {
             "path": "qa-st8/i.mdx",
-            "children": []
-          },
-          {
-            "path": "qa-st8/h.mdx",
             "children": []
           },
           {
