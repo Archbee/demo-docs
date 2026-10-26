@@ -23,6 +23,10 @@
             "children": []
           },
           {
+            "path": "qa-st8/k.mdx",
+            "children": []
+          },
+          {
             "path": "qa-st8/b.mdx",
             "children": []
           },
@@ -60,10 +64,6 @@
           },
           {
             "path": "qa-st8/j.mdx",
-            "children": []
-          },
-          {
-            "path": "qa-st8/k.mdx",
             "children": []
           },
           {
