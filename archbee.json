@@ -5,10 +5,40 @@
     "assets": "assets",
     "docsTree": [
       {
+        "path": "qa-st8-m5d-top.mdx",
+        "children": []
+      },
+      {
+        "path": "qa-st8-m5c-top.mdx",
+        "children": []
+      },
+      {
+        "path": "qa-st8-m5a-top.mdx",
+        "children": []
+      },
+      {
+        "path": "qa-st8-b1-new.mdx",
+        "children": []
+      },
+      {
         "categoryName": "About",
         "isCategory": false,
         "path": "about.mdx",
         "children": []
+      },
+      {
+        "path": "qa-st8-o2.mdx",
+        "children": []
+      },
+      {
+        "path": "qa-st8-b6-doc1.mdx",
+        "children": []
+      },
+      {
+        "categoryName": "Shadow Docs",
+        "isCategory": true,
+        "children": [],
+        "isShadowDocs": true
       },
       {
         "categoryName": "Shadow Docs",
@@ -29,11 +59,43 @@
             "children": []
           },
           {
+            "path": "qa-st8/qa-st8-m7a.mdx",
+            "children": []
+          },
+          {
+            "path": "qa-st8/qa-st8-m7b.mdx",
+            "children": []
+          },
+          {
+            "path": "qa-st8/qa-st8-m7c.mdx",
+            "children": []
+          },
+          {
+            "path": "qa-st8/qa-st8-m7d.mdx",
+            "children": []
+          },
+          {
+            "path": "qa-st8/qa-st8-m7e.mdx",
+            "children": []
+          },
+          {
+            "path": "qa-st8/qa-st8-m7f.mdx",
+            "children": []
+          },
+          {
+            "path": "qa-st8/qa-st8-m7g.mdx",
+            "children": []
+          },
+          {
+            "path": "qa-st8/k.mdx",
+            "children": []
+          },
+          {
             "path": "qa-st8/b.mdx",
             "children": []
           },
           {
-            "path": "qa-st8/c.mdx",
+            "path": "qa-st8/j.mdx",
             "children": []
           },
           {
@@ -53,23 +115,11 @@
             "children": []
           },
           {
-            "path": "qa-st8/pn1.mdx",
-            "children": []
-          },
-          {
-            "path": "qa-st8/i.mdx",
-            "children": []
-          },
-          {
             "path": "qa-st8/h.mdx",
             "children": []
           },
           {
-            "path": "qa-st8/j.mdx",
-            "children": []
-          },
-          {
-            "path": "qa-st8/k.mdx",
+            "path": "qa-st8/i.mdx",
             "children": []
           },
           {
@@ -84,6 +134,10 @@
                 "children": []
               }
             ]
+          },
+          {
+            "path": "qa-st8/l.mdx",
+            "children": []
           }
         ]
       },
@@ -137,12 +191,6 @@
             "categoryName": "Code editor",
             "isCategory": false,
             "path": "syntax/code-editor.mdx",
-            "children": []
-          },
-          {
-            "categoryName": "item separator list",
-            "isCategory": false,
-            "path": "syntax/an-item.mdx",
             "children": []
           }
         ]
