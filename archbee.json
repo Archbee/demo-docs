@@ -11,6 +11,11 @@
         "children": []
       },
       {
+        "categoryName": "QA St8 O4 Folder",
+        "isCategory": true,
+        "children": []
+      },
+      {
         "categoryName": "Swagger API Petstore 2.0",
         "isCategory": true,
         "children": []
