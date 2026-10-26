@@ -5,6 +5,14 @@
     "assets": "assets/",
     "docsTree": [
       {
+        "path": "e2e-b.mdx",
+        "children": []
+      },
+      {
+        "path": "e2e-a.mdx",
+        "children": []
+      },
+      {
         "categoryName": "this is a category",
         "isCategory": true,
         "children": [
