@@ -5,7 +5,7 @@
     "assets": "assets/",
     "docsTree": [
       {
-        "path": "e2e-b.mdx",
+        "path": "e2e-keep.mdx",
         "children": []
       },
       {
@@ -17,14 +17,10 @@
         "isCategory": true,
         "children": [
           {
-            "path": "this-is-a-category/new-doc.mdx",
+            "path": "e2e-b.mdx",
             "children": []
           }
         ]
-      },
-      {
-        "path": "bla-bla.mdx",
-        "children": []
       },
       {
         "categoryName": "Shadow Docs",
