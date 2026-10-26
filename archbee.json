@@ -17,7 +17,8 @@
             "path": "qa-st8-o10/child.mdx",
             "children": []
           }
-        ]
+        ],
+        "isCategory": true
       },
       {
         "categoryName": "Swagger API Petstore 2.0",
