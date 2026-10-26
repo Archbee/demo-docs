@@ -11,6 +11,15 @@
         "children": []
       },
       {
+        "categoryName": "QA St8 O10 Folder",
+        "children": [
+          {
+            "path": "qa-st8-o10/child.mdx",
+            "children": []
+          }
+        ]
+      },
+      {
         "categoryName": "Swagger API Petstore 2.0",
         "isCategory": true,
         "children": []
