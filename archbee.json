@@ -123,19 +123,6 @@
             "children": []
           },
           {
-            "path": "qa-st8/parent.mdx",
-            "children": [
-              {
-                "path": "qa-st8/parent-c1.mdx",
-                "children": []
-              },
-              {
-                "path": "qa-st8/parent-c2.mdx",
-                "children": []
-              }
-            ]
-          },
-          {
             "path": "qa-st8/l.mdx",
             "children": []
           }
