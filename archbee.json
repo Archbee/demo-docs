@@ -65,12 +65,6 @@
         "isShadowDocs": true
       },
       {
-        "categoryName": "Shadow Docs",
-        "isCategory": true,
-        "children": [],
-        "isShadowDocs": true
-      },
-      {
         "path": "qa-st8-pn2.mdx",
         "children": []
       },
