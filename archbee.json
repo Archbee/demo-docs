@@ -13,7 +13,12 @@
       {
         "categoryName": "QA St8 O4 Folder",
         "isCategory": true,
-        "children": []
+        "children": [
+          {
+            "path": "syntax/lists-1.mdx",
+            "children": []
+          }
+        ]
       },
       {
         "categoryName": "Swagger API Petstore 2.0",
@@ -46,14 +51,7 @@
             "categoryName": "Lists",
             "isCategory": false,
             "path": "syntax/lists.mdx",
-            "children": [
-              {
-                "categoryName": "Lists 1",
-                "isCategory": false,
-                "path": "syntax/lists-1.mdx",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "categoryName": "Tables",
