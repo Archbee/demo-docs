@@ -11,6 +11,12 @@
         "children": []
       },
       {
+        "categoryName": "Shadow Docs",
+        "isCategory": true,
+        "children": [],
+        "isShadowDocs": true
+      },
+      {
         "categoryName": "QA St8",
         "isCategory": true,
         "children": [
