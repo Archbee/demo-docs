@@ -27,23 +27,23 @@
         "children": []
       },
       {
-        "path": "st8-moved/st8mv-a.md",
+        "path": "st8-moved/st8mv-a.mdx",
         "children": []
       },
       {
-        "path": "st8-moved/st8mv-b.md",
+        "path": "st8-moved/st8mv-b.mdx",
         "children": []
       },
       {
-        "path": "st8mv-c.md",
+        "path": "st8mv-c.mdx",
         "children": []
       },
       {
-        "path": "st8-moved/st8mv-c.md",
+        "path": "st8-moved/st8mv-c.mdx",
         "children": []
       },
       {
-        "path": "st8-moved/st8mv-d.md",
+        "path": "st8-moved/st8mv-d.mdx",
         "children": []
       },
       {
@@ -370,5 +370,6 @@
       "customJS": "",
       "publishSpace": false
     }
-  ]
+  ],
+  "autoMerge": false
 }
